@@ -1,6 +1,7 @@
+// Experiment1: Write a Java program to declare and print all primitive data types.
+
 public class Exp_1{
     public static void main(String[] args) {
-        // Primitive data types in Java
         byte byteVar = 100;
         
         short shortVar = 10000;
